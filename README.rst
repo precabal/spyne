@@ -1,3 +1,10 @@
+** Modified Spyne Server to allow GET verb in order to test with API uptime tools such as Stackdriver **
+
+
+
+
+
+
 .. image:: https://travis-ci.org/arskom/spyne.png?branch=master
         :target: http://travis-ci.org/arskom/spyne
 
