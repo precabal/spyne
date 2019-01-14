@@ -1,0 +1,18 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" 
+               xmlns:ns="http://adl.arauco.cl/soap/1.1"
+               xmlns:ns0="EstimacionLlegadaCamiones">
+  <soap:Header>
+    <ns0:MyHeader>       
+      <ns0:myinfo>someinfo</ns0:myinfo>
+    </ns0:MyHeader>       
+  </soap:Header>
+  <soap:Body>
+    <ns0:recepcion_camion>
+      <ns0:GUIA_FORESTAL>test</ns0:GUIA_FORESTAL>
+      <ns0:PAT_CAMION>test</ns0:PAT_CAMION>
+      <ns0:FCH_HRA_INGRESO>test</ns0:FCH_HRA_INGRESO>
+      <ns0:COD_DESTINO>test</ns0:COD_DESTINO>
+      <ns0:NOMBRE_DESTINO>test</ns0:NOMBRE_DESTINO>
+    </ns0:recepcion_camion>
+  </soap:Body>
+</soap:Envelope>
