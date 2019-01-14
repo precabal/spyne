@@ -1,4 +1,4 @@
-*** Modified Spyne Server to allow GET verb in order to test with API uptime tools such as Stackdriver. 
+** Modified Spyne Server to allow GET verb in order to test with API uptime tools such as Stackdriver **
 
 
 
